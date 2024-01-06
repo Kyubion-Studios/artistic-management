@@ -1,0 +1,6 @@
+# Made in Blockbench 4.2.2
+newmtl m_side
+map_Kd extreme_forge_side.png 
+newmtl m_front
+map_Kd extreme_forge_front.png 
+newmtl none
